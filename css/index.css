@@ -173,13 +173,13 @@ img {
 }
 .navigation .container {
   display: flex;
-  padding: 25px 0;
   justify-content: space-between;
+  padding: 25px 0;
 }
 .navigation .container nav {
   display: flex;
-  width: 45%;
   justify-content: space-evenly;
+  width: 45%;
   align-items: center;
 }
 .navigation .container nav a {
