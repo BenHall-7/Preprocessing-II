@@ -168,6 +168,17 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.btn {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background: teal;
+  width: 200px;
+  padding: 10px 0;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
 .navigation {
   border-bottom: 2px dashed gray;
 }
